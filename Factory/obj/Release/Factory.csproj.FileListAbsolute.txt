@@ -1,0 +1,17 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\Factory.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\Factory.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\Common.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\NPOI.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\NPOI.OOXML.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\Common.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\IData.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\bin\Release\NPOI.xml
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\obj\Release\Factory.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\obj\Release\Factory.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Factory\obj\Release\Factory.pdb

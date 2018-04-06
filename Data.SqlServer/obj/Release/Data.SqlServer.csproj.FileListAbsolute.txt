@@ -1,0 +1,16 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\Data.SqlServer.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\Data.SqlServer.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\Common.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\NPOI.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\NPOI.OOXML.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\Common.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\IData.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\bin\Release\NPOI.xml
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\obj\Release\Data.SqlServer.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.SqlServer\obj\Release\Data.SqlServer.pdb

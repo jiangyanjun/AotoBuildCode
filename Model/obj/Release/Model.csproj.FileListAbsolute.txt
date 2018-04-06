@@ -1,0 +1,5 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Model\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Model\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Model\obj\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Model\obj\Release\Model.pdb

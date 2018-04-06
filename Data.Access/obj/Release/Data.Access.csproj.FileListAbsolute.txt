@@ -1,0 +1,9 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\bin\Release\Data.Access.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\bin\Release\Data.Access.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\bin\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\bin\Release\IData.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\obj\Release\Data.Access.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\obj\Release\Data.Access.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Access\obj\Release\Data.Access.pdb

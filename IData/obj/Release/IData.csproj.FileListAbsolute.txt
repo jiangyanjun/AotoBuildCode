@@ -1,0 +1,7 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\bin\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\bin\Release\IData.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\obj\Release\IData.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\obj\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\IData\obj\Release\IData.pdb

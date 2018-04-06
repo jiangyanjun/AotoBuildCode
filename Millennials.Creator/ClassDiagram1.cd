@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Millennials.Creator.BaseClass.DAOBaseClass" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAAAAAEAAAgEIAAABAAAAAAAAQAAAEAAQAA=</HashCode>
+      <FileName>BaseClass\DAOBaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Millennials.Creator.ClassCreator">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAABAABAACAgAwAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ClassCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Millennials.Creator.Helper">
+    <Position X="0.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAAAAAAAAAAAACBAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Millennials.Creator.ProjectCreator">
+    <Position X="3" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAAAAoAAAAAA=</HashCode>
+      <FileName>ProjectCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Millennials.Creator.SolutionCreator">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAAQA=</HashCode>
+      <FileName>SolutionCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

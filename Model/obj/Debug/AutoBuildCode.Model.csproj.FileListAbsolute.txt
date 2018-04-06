@@ -1,0 +1,7 @@
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\bin\Debug\Millennials.Util.dll
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\bin\Debug\Millennials.Util.pdb
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\obj\Debug\AutoBuildCode.Model.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\bin\Debug\AutoBuildCode.Model.dll
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\bin\Debug\AutoBuildCode.Model.pdb
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\obj\Debug\AutoBuildCode.Model.dll
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\AutoBuildCode.Model\obj\Debug\AutoBuildCode.Model.pdb

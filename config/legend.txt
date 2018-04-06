@@ -1,0 +1,28 @@
+[ATTRIBUTES] ... [/ATTRIBUTES]
+This tag represents the template of all 
+attributes to be generated.
+
+[BUSINESS]
+This tag represents the business layer class.
+
+[FIELD]
+This tag represents a field from a table.
+
+[DAO]
+This tag represents the data access class.
+
+[NAMESPACE]
+This tag represents the project namespace.
+
+[OBJECT]
+This tag represents a variable.
+
+[PROPERTIES] ... [/PROPERTIES]
+This tag represents the template of all
+properties to be generated.
+
+[TYPE]
+This tag represents the data type.
+
+[USING]
+This tag represents the imported classes.

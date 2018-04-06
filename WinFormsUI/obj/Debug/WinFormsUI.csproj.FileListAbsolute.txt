@@ -1,0 +1,16 @@
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\bin\Debug\license.txt
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\JiangYanJun\Downloads\dockpanelsuite-code-115-trunk\dockpanelsuite-code-115-trunk\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\bin\Debug\J.Docking.dll
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\bin\Debug\J.Docking.pdb
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\obj\Debug\J.Docking.Docking.Resources.resources
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\obj\Debug\J.Docking.Docking.Strings.resources
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\obj\Debug\J.Docking.dll
+C:\Users\JiangYanJun\Desktop\Millennials\Millennials\WinFormsUI\obj\Debug\J.Docking.pdb

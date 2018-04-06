@@ -1,0 +1,16 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\Common.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\Common.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\NPOI.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\NPOI.OOXML.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\bin\Release\NPOI.xml
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\obj\Release\Common.MyMsgBox.resources
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\obj\Release\Common.Properties.Resources.resources
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\obj\Release\Common.csproj.GenerateResource.Cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\obj\Release\Common.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Common\obj\Release\Common.pdb

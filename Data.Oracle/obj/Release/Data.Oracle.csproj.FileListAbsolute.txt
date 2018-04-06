@@ -1,0 +1,17 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\Data.Oracle.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\Data.Oracle.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\Common.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\NPOI.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\NPOI.OOXML.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\Common.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\IData.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\bin\Release\NPOI.xml
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\obj\Release\Data.Oracle.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\obj\Release\Data.Oracle.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Data.Oracle\obj\Release\Data.Oracle.pdb

@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C692F3DE-1A9A-4524-BCFC-59248EF9C30C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UI</RootNamespace>
+    <AssemblyName>UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>发布\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.TextEditor, Version=3.0.0.3437, Culture=neutral, PublicKeyToken=4d61825e8dd49f1a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\ICSharpCode.TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2">
+      <HintPath>..\Thirdparty\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\ConnectionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ConnectionControl.Designer.cs">
+      <DependentUpon>ConnectionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ConfigurationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ConfigurationControl.Designer.cs">
+      <DependentUpon>ConfigurationControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\SolutionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\SolutionControl.Designer.cs">
+      <DependentUpon>SolutionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\TableControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\TableControl.Designer.cs">
+      <DependentUpon>TableControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Base.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Base.Designer.cs">
+      <DependentUpon>Form_Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Code_Area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Code_Area.Designer.cs">
+      <DependentUpon>Form_Code_Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Code_SetText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Code_SetText.Designer.cs">
+      <DependentUpon>Form_Code_SetText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Database.Designer.cs">
+      <DependentUpon>Form_Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Home.Designer.cs">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEditTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEditTemplate.Designer.cs">
+      <DependentUpon>FrmEditTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLegend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLegend.Designer.cs">
+      <DependentUpon>FrmLegend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewProject.Designer.cs">
+      <DependentUpon>FrmNewProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTemplate.Designer.cs">
+      <DependentUpon>FrmTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticTool.cs" />
+    <EmbeddedResource Include="Control\ConnectionControl.resx">
+      <DependentUpon>ConnectionControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ConfigurationControl.resx">
+      <DependentUpon>ConfigurationControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\SolutionControl.resx">
+      <DependentUpon>SolutionControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\TableControl.resx">
+      <DependentUpon>TableControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Base.resx">
+      <DependentUpon>Form_Base.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Code_Area.resx">
+      <DependentUpon>Form_Code_Area.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Code_SetText.resx">
+      <DependentUpon>Form_Code_SetText.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Database.resx">
+      <DependentUpon>Form_Database.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Home.resx">
+      <DependentUpon>Form_Home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEditTemplate.resx">
+      <DependentUpon>FrmEditTemplate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLegend.resx">
+      <DependentUpon>FrmLegend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewProject.resx">
+      <DependentUpon>FrmNewProject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTemplate.resx">
+      <DependentUpon>FrmTemplate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Config\skin\Calmness.ssk" />
+    <None Include="Config\skin\CalmnessColor1.ssk" />
+    <None Include="Config\skin\CalmnessColor2.ssk" />
+    <None Include="Config\skin\DeepCyan.ssk" />
+    <None Include="Config\skin\DeepGreen.ssk" />
+    <None Include="Config\skin\DeepOrange.ssk" />
+    <None Include="Config\skin\DiamondBlue.ssk" />
+    <None Include="Config\skin\DiamondGreen.ssk" />
+    <None Include="Config\skin\Eighteen.ssk" />
+    <None Include="Config\skin\EighteenColor1.ssk" />
+    <None Include="Config\skin\EighteenColor2.ssk" />
+    <None Include="Config\skin\Emerald.ssk" />
+    <None Include="Config\skin\EmeraldColor1.ssk" />
+    <None Include="Config\skin\EmeraldColor2.ssk" />
+    <None Include="Config\skin\EmeraldColor3.ssk" />
+    <None Include="Config\skin\GlassBrown.ssk" />
+    <None Include="Config\skin\GlassGreen.ssk" />
+    <None Include="Config\skin\GlassOrange.ssk" />
+    <None Include="Config\skin\Longhorn.ssk" />
+    <None Include="Config\skin\MacOS.ssk" />
+    <None Include="Config\skin\Midsummer.ssk" />
+    <None Include="Config\skin\MidsummerColor1.ssk" />
+    <None Include="Config\skin\MidsummerColor2.ssk" />
+    <None Include="Config\skin\MidsummerColor3.ssk" />
+    <None Include="Config\skin\MP10.ssk" />
+    <None Include="Config\skin\MSN.ssk" />
+    <None Include="Config\skin\OneBlue.ssk" />
+    <None Include="Config\skin\OneCyan.ssk" />
+    <None Include="Config\skin\OneGreen.ssk" />
+    <None Include="Config\skin\OneOrange.ssk" />
+    <None Include="Config\skin\Page.ssk" />
+    <None Include="Config\skin\PageColor1.ssk" />
+    <None Include="Config\skin\PageColor2.ssk" />
+    <None Include="Config\skin\RealOne.ssk" />
+    <None Include="Config\skin\Silver.ssk" />
+    <None Include="Config\skin\SilverColor1.ssk" />
+    <None Include="Config\skin\SilverColor2.ssk" />
+    <None Include="Config\skin\SportsBlack.ssk" />
+    <None Include="Config\skin\SportsBlue.ssk" />
+    <None Include="Config\skin\SportsCyan.ssk" />
+    <None Include="Config\skin\SportsGreen.ssk" />
+    <None Include="Config\skin\SportsOrange.ssk" />
+    <None Include="Config\skin\SteelBlack.ssk" />
+    <None Include="Config\skin\SteelBlue.ssk" />
+    <None Include="Config\skin\vista1.ssk" />
+    <None Include="Config\skin\vista1_green.ssk" />
+    <None Include="Config\skin\Vista2_color1.ssk" />
+    <None Include="Config\skin\Vista2_color2.ssk" />
+    <None Include="Config\skin\Vista2_color3.ssk" />
+    <None Include="Config\skin\Vista2_color4.ssk" />
+    <None Include="Config\skin\Vista2_color5.ssk" />
+    <None Include="Config\skin\Vista2_color6.ssk" />
+    <None Include="Config\skin\Vista2_color7.ssk" />
+    <None Include="Config\skin\Warm.ssk" />
+    <None Include="Config\skin\WarmColor1.ssk" />
+    <None Include="Config\skin\WarmColor2.ssk" />
+    <None Include="Config\skin\WarmColor3.ssk" />
+    <None Include="Config\skin\Wave.ssk" />
+    <None Include="Config\skin\WaveColor1.ssk" />
+    <None Include="Config\skin\WaveColor2.ssk" />
+    <None Include="Config\skin\XPBlue.ssk" />
+    <None Include="Config\skin\XPGreen.ssk" />
+    <None Include="Config\skin\XPOrange.ssk" />
+    <None Include="Config\skin\XPSilver.ssk" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Wave.ssk">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{163db1cf-d340-457b-b664-60b6a21dc39b}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{90600379-41B9-4A8A-AD12-B1F891984F32}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.Access\Data.Access.csproj">
+      <Project>{2b027833-88ed-4245-9bee-4d8b3bc86f43}</Project>
+      <Name>Data.Access</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.MySql\Data.MySql.csproj">
+      <Project>{6560cdb1-c655-4de4-b059-07312816f2a2}</Project>
+      <Name>Data.MySql</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.Oracle\Data.Oracle.csproj">
+      <Project>{de2e25f6-2a6f-4192-824b-446eb18b922c}</Project>
+      <Name>Data.Oracle</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.Sqlite\Data.Sqlite.csproj">
+      <Project>{97858e96-e14d-4fb8-b5a1-646b2f581206}</Project>
+      <Name>Data.Sqlite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.SqlServer\Data.SqlServer.csproj">
+      <Project>{9f6a8754-7ba9-4d30-9ee7-da2327730081}</Project>
+      <Name>Data.SqlServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Millennials.Creator\Millennials.Creator.csproj">
+      <Project>{210378B4-47E4-4E78-A79E-A50CA9E24D52}</Project>
+      <Name>Millennials.Creator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{D00155FC-84E9-4053-964F-4A905D1DAB4A}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinFormsUI\Docking.csproj">
+      <Project>{c75532c4-765b-418e-b09b-46d36b2abdb1}</Project>
+      <Name>Docking</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\add.png" />
+    <Content Include="Image\delete.png" />
+    <Content Include="Image\edit.png" />
+    <Content Include="Image\field-icon.png" />
+    <Content Include="Image\foreign_key-icon.png" />
+    <Content Include="Image\info-icon.gif" />
+    <Content Include="Image\load.gif" />
+    <Content Include="Config\Servers.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\primary_key-icon.png" />
+    <Content Include="Image\table-icon.png" />
+    <Content Include="Image\wizard-icon.png" />
+    <Content Include="Image\wizard.ico" />
+    <None Include="Resources\load.gif" />
+    <None Include="Resources\ooopic_1464506474.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

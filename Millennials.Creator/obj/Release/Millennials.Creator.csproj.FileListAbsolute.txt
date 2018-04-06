@@ -1,0 +1,15 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\Millennials.Creator.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\Millennials.Creator.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\Common.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\NPOI.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\NPOI.OOXML.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\Common.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\bin\Release\NPOI.xml
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\obj\Release\Millennials.Creator.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\obj\Release\Millennials.Creator.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Creator\obj\Release\Millennials.Creator.pdb

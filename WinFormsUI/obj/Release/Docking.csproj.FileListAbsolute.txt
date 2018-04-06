@@ -1,0 +1,9 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\bin\Release\Docking.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\bin\Release\Docking.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\Docking.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\WeifenLuo.WinFormsUI.Docking.DockContent.resources
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\Docking.Docking.Resources.resources
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\Docking.Docking.Strings.resources
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\Docking.csproj.GenerateResource.Cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\Docking.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\WinFormsUI\obj\Release\Docking.pdb

@@ -1,0 +1,9 @@
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\bin\Release\Data.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\bin\Release\Data.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\bin\Release\IData.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\bin\Release\Model.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\bin\Release\IData.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\bin\Release\Model.pdb
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\obj\Release\Data.dll
+C:\Users\JiangYanJun\Desktop\AotoBuildCode\Millennials.Data\obj\Release\Data.pdb
